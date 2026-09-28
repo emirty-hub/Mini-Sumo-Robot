@@ -14,6 +14,5 @@ Belirlenen ring (dohyo) sınırları içerisinde kalarak, otonom bir şekilde ra
 * **Hareket:** Yüksek torklu DC motorlar ve motor sürücü kartı
 
 ## ⚙️ Savaş ve Hareket Algoritması
-1. **Arama Modu:** Robot, rakibi görene kadar kendi etrafında hızlıca dönerek veya ringi tarayarak rakibi arar.
-2. **Saldırı Modu:** Rakip sensörler tarafından algılandığı an, robot tam güçle ileri atılır ve rakibi itmeye başlar.
-3. **Savunma Modu:** Zemin sensörleri ringin sınır çizgisini (beyaz çizgiyi) algıladığında, robot dışarı düşmemek için motorları aniden ters yönde çalıştırarak geri manevra yapar.
+1. **Saldırı Modu:** Rakip sensörler tarafından algılandığı an, robot tam güçle ileri atılır ve rakibi itmeye başlar.
+2. **Savunma Modu:** Zemin sensörleri ringin sınır çizgisini (beyaz çizgiyi) algıladığında, robot dışarı düşmemek için motorları aniden ters yönde çalıştırarak geri manevra yapar.
